@@ -1,0 +1,2 @@
+#!/bin/bash
+head -3 /alx-system_engineering-devops/iacta /|tail +3
