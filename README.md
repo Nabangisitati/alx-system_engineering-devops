@@ -1,1 +1,1 @@
-This repo is on shell basics
+Expansions, init files,variables, aliases
